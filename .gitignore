@@ -35,3 +35,4 @@ src/components/Map/index2.js
 src/components/Map/index3.js
 src/components/Map/Location.js
 src/server/API/Payment/config.js
+src/server/API/Payment/PayPal/config.js
